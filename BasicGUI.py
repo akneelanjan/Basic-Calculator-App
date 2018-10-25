@@ -55,3 +55,5 @@ e3 = Entry(master, font = font1)
 e3.grid(row=3, column = 0, ipadx = 10)
 e1.focus()
 mainloop()
+
+#END
